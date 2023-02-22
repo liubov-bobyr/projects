@@ -1,9 +1,11 @@
 # Data Analytics Portfolio
 
-Hi there! 
-This repository is containing portfolio of data data analyst projects completed by me. 
+Hi there! :vulcan_salute:
 
-**Note**  
+My name is Liubov (which means Love :black_heart:) and this repository is containing portfolio of data data analyst projects completed by me. 
+
+**Note**  :pushpin:
+
 Due to the fact that sometimes GitHub does not open .ipynb files, ignores the TOC links and does not display some objects (such as json, go, etc.), I added links to the nbviewer, where you can also see all projects correctly. 
 
 
