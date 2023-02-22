@@ -2,7 +2,7 @@
 
 Hi there! :vulcan_salute:
 
-My name is Liubov (which means Love :black_heart:) and this repository is containing portfolio of data data analyst projects completed by me. 
+My name is Liubov (which means Love :black_heart:) and this repository is containing portfolio of data analyst projects completed by me. 
 
 **Note**  :pushpin:
 
